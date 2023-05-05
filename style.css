@@ -35,3 +35,9 @@ a {
     padding-bottom: 50px;
     letter-spacing: 2px;
 }
+/* navbar */
+#navbar {
+    width: 100%;
+    background: #111;
+    color: #eee;
+}

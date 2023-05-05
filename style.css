@@ -40,4 +40,23 @@ a {
     width: 100%;
     background: #111;
     color: #eee;
+    height: 80px;
 }
+.logo {
+    font-size: 2em;
+}
+#navbar-container {
+    width: 80%;
+    margin: auto;
+    display: flex;
+    justify-content: space-between;
+    height: 100%;
+    align-items: center;
+}
+#navbar-items {
+    display: flex;
+    list-style: none;
+    gap: 15px;
+    text-transform: uppercase;
+}
+/* showcase */

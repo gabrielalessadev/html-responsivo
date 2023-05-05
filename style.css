@@ -81,3 +81,22 @@ a {
     font-size: 1.2rem;
     padding: 10px 0;
 }
+/* clientes */
+#clients {
+    width: 100%;
+    background: #eee;
+    color: #111;
+    padding: 50px;
+    
+}
+#clients-container {
+    display: grid;
+    grid-template-columns: repeat(4, 1fr);
+    padding: 15px;
+    justify-content: center;
+}
+.client {
+    display: inline-block;
+    width: 25%;
+
+}

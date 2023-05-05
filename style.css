@@ -101,3 +101,37 @@ a {
 
 }
 /* about */
+#features {
+    width: 100%;
+    background: #222;
+    color: #eee;
+    padding: 50px;
+}
+/* #features-container {
+    width: 100%;
+    margin: auto;
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    grid-column: auto;
+} */
+.feature {
+    display: flex;
+    flex-direction: column;
+    background: #333;
+    padding: 20px;
+    border-radius: 5px;
+}
+.feature-title {
+    font-size: 1.5rem;
+    font-weight: bold;
+}
+#product {
+    width: 100%;
+    padding: 50px;
+
+}
+#product-container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}

@@ -161,6 +161,15 @@ i {
     margin: 15px 0;
     border-radius: 5px;
 }
+.testimonial2 {
+    display: flex;
+    align-items: center;
+    font-size: 1.2rem;
+    background: #333;
+    padding: 15px;
+    margin: 15px 0;
+    border-radius: 5px;
+}
 #testimonials {
     width: 100%;
     background: #222;
@@ -175,6 +184,12 @@ i {
     flex-direction: column;
 }
 .testimonial .testimonial-image{
+    height: 200px;
+    width: auto;
+    border-radius: 50%;
+    margin: 15px;
+}
+.testimonial2 .testimonial-image{
     height: 200px;
     width: auto;
     border-radius: 50%;

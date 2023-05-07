@@ -68,7 +68,7 @@ a {
     justify-content: center;
     align-items: center;
     color: #eee;
-    background: url(/img/showcase.jpg) no-repeat center/cover;
+    background: url(/img/showcase) no-repeat center/cover;
     background-color: rgba(0, 0, 0, 0.4);
     background-blend-mode: color;
 }
